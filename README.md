@@ -3,7 +3,7 @@
 # Introdução
 O Python Insights é um projeto de análise de dados que visa prevenir o cancelamento de clientes em uma empresa. Neste README, exploraremos como usar Python para analisar dados relacionados a clientes e identificar padrões que possam indicar a probabilidade de cancelamento. Vamos abordar desde a preparação dos dados até a visualização dos resultados.
 
-Etapas do Projeto
+# Etapas do Projeto
 1. Preparação dos Dados
 Antes de iniciar a análise exploratória, é fundamental garantir que os dados estejam limpos e tratados. Algumas etapas importantes incluem:
 
